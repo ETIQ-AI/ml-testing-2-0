@@ -46,7 +46,7 @@ Within your new virtual environment you need to install the python wheels in thi
 
 We then need to register ourselves with the Etiq Dashboard to get the appropriate license:
 
-Navigate to: [dashboard.etiq.ai](dashboard.etiq.ai) and sign up for a free trial account
+Navigate to: [dashboard.etiq.ai](https://dashboard.etiq.ai/) and sign up for a free trial account
 
 We now need to create a token to associate your session with your account. To create this token:
 
